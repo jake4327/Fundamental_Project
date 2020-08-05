@@ -1,12 +1,14 @@
 # Fundamental_Project
 QA SFIA1 project
 
-__italic writing__
+*italic writing*
+_italic writing_
 
 **bold writing**
+__bold writing__
 
-**__both__**
-__**does this work**__
+**_both_**
+_**does this work**_
 
 # H1
 ## H2
