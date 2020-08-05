@@ -33,7 +33,7 @@ __**does this work**__
 * 3
 
 1. 1
-  1.1. 1.1
+  * 1
 2. 2
 3. 3
 
@@ -45,8 +45,8 @@ Each new line is a new start,
 
 Or is it?
 
-This poetry is very smart,..
-Each new lines is a new start,..
+This poetry is very smart,  
+Each new lines is a new start,  
 It is!
 
 
