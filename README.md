@@ -2,12 +2,15 @@
 QA SFIA1 project
 
 *italic writing*
+
 _italic writing_
 
 **bold writing**
+
 __bold writing__
 
 **_both_**
+
 _**does this work**_
 
 # H1
@@ -51,7 +54,7 @@ Each new line is a new start,
 
 Or is it?
 
-This poetry is very smart,..  
+This poetry is very smart,    
 Each new lines is a new start,..  
 It is!
 
