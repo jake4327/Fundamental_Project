@@ -1,0 +1,21 @@
+Project one
+
+Idea 
+
+To build a world map that can accuratly tell people whether they are safe and the behaviour they can exhibit when they are there.
+
+Scale 
+
+Start with on country and move more countries.
+Start with one social policy, and move on to diffenerent identy groups.
+
+Going well functions
+
+Web scraper that can write to a database when a dangerous news story is occuring
+Were a user can be alerted when they are in a different country can be given alerts to when to move and where to move to 
+An update by trusted users to be able to guide people.
+
+Sticking to project guide lines
+
+
+
