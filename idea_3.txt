@@ -1,1 +1,2 @@
 Internet bumming out
+monitior 4G activity and send information on best time to upload information 
