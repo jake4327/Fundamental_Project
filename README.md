@@ -1,7 +1,13 @@
 # Fundamental_Project
 QA SFIA1 project
 
+Introduction
+
 # Live Bar Count
+
+## Contents
+- [Introduction](#Introduction)
+- [Architecture](#Architecture)
 
 ## Introduction
 ### Mission statement
@@ -34,15 +40,11 @@ QA SFIA1 project
 
 ## Jira Board
 
-## Architecture
-
 ## Risk Assessment
 
-## Relational database
+## Architecture
 
-## Best Practices and Design Principles in Java
-
-## Kanban Board 
+### Relational database
 
 ## Website
 
