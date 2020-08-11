@@ -49,7 +49,7 @@ Introduction
 ## Jira Board
 
 ## Risk Assessment
-
+![](images/moscow_risk_assessment.jpg)
 ## Architecture
 
 ### Relational database
