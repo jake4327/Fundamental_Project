@@ -38,6 +38,10 @@ Introduction
 * U - 
 * D - 
 
+## Design
+
+<img align="left" width="100" height="100" src="./'pour_spirit-Bar session.png'">
+
 ## Jira Board
 
 ## Risk Assessment
