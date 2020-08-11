@@ -40,7 +40,7 @@ Introduction
 
 ## Design
 
-<img align="left" width="100" height="100" src="./'pour_spirit-Bar session.png'">
+![](pour_spirit-Database Model.png)
 
 ## Jira Board
 
