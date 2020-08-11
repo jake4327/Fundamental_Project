@@ -1,9 +1,11 @@
-# Fundamental_Project
+ # Fundamental_Project
 QA SFIA1 project
 
 Introduction
 
 # Live Bar Count
+
+![](images/Beer_weight_design.png)
 
 ## Contents
 - [Introduction](#Introduction)
@@ -40,7 +42,9 @@ Introduction
 
 ## Design
 
-![](pour_spirit-Database%20Model.png)
+![](images/pour_spirit-Database%20Model.png)
+![](images/pour_spirit-Bar%20session.png)
+![](images/pour_spirit-Pour%20Bottle.png)
 
 ## Jira Board
 
