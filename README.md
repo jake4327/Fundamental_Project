@@ -40,7 +40,7 @@ Introduction
 
 ## Design
 
-![](pour_spirit-Database Model.png)
+![](pour_spirit-Database%20Model.png)
 
 ## Jira Board
 
