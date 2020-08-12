@@ -73,18 +73,5 @@ Introduction
 
 ### Personal Risk assessment
 
-[//]: <> ## Architecture
-
-[//]: <>### Relational database
-
-[//]: <>## Website
-
-[//]: <>## API
-
-[//]: <>## Testing 
-
-[//]: <>## CI Server 
-
-[//]: <>## Virtualual Machine Deployment
 
 
