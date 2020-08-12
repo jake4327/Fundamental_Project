@@ -42,8 +42,13 @@ Introduction
 
 ## Design
 
+### Database Design 
 ![](images/pour_spirit-Database%20Model.png)
+
+### Bar Session
 ![](images/pour_spirit-Bar%20session.png)
+
+### Pour Bottle 
 ![](images/pour_spirit-Pour%20Bottle.png)
 
 ## Jira Board
