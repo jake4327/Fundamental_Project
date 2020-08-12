@@ -56,7 +56,8 @@ Introduction
 ## Risk Assessment
 ![](images/moscow_risk_assessment.jpg)
 
-|Technical risk assessment|FIELD2                                                            |FIELD3                                       |FIELD4|FIELD5 |FIELD6        |FIELD7                   |FIELD8              |FIELD9 |FIELD10  |
+### Technical risk assessment
+
 |-------------------------|------------------------------------------------------------------|---------------------------------------------|------|-------|--------------|-------------------------|--------------------|-------|---------|
 |Risk_ID                  |Description                                                       |Assessment                                   |Risk  |Impact |Responsiblity |Current Mitigration      |Proposed Mitigration|Respone|Tolorance|
 |0_0001                   |Java test not complete                                            |                                             |      |       |              |                         |                    |       |         |
@@ -70,18 +71,20 @@ Introduction
 |0_0009                   |Loss of internet                                                  |                                             |      |       |              |                         |                    |       |         |
 |0_0010                   |Damage to internet infrastructure                                 |                                             |      |       |              |                         |                    |       |         |
 
-## Architecture
+### Personal Risk assessment
 
-### Relational database
+[//]: <> ## Architecture
 
-## Website
+[//]: <>### Relational database
 
-## API
+[//]: <>## Website
 
-## Testing 
+[//]: <>## API
 
-## CI Server 
+[//]: <>## Testing 
 
-## Virtualual Machine Deployment
+[//]: <>## CI Server 
+
+[//]: <>## Virtualual Machine Deployment
 
 
