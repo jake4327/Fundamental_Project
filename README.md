@@ -42,8 +42,13 @@ Introduction
 
 ## Design
 
+### Database Design 
 ![](images/pour_spirit-Database%20Model.png)
+
+### Bar Session
 ![](images/pour_spirit-Bar%20session.png)
+
+### Pour Bottle 
 ![](images/pour_spirit-Pour%20Bottle.png)
 
 ## Jira Board
@@ -51,9 +56,10 @@ Introduction
 ## Risk Assessment
 ![](images/moscow_risk_assessment.jpg)
 
-|Technical risk assessment|FIELD2                                                            |FIELD3                                       |FIELD4|FIELD5 |FIELD6        |FIELD7                   |FIELD8              |FIELD9 |FIELD10  |
-|-------------------------|------------------------------------------------------------------|---------------------------------------------|------|-------|--------------|-------------------------|--------------------|-------|---------|
+### Technical risk assessment
+
 |Risk_ID                  |Description                                                       |Assessment                                   |Risk  |Impact |Responsiblity |Current Mitigration      |Proposed Mitigration|Respone|Tolorance|
+|-------------------------|------------------------------------------------------------------|---------------------------------------------|------|-------|--------------|-------------------------|--------------------|-------|---------|
 |0_0001                   |Java test not complete                                            |                                             |      |       |              |                         |                    |       |         |
 |0_0002                   |README.md not complete                                            |                                             |low   |low    |low           |Monitor readme           |                    |       |         |
 |0_0003                   |Unit test not evaluating function correctly                       |Function will not produced desired output    |high  |high   |              |Design unit tests        |                    |       |         |
@@ -65,18 +71,11 @@ Introduction
 |0_0009                   |Loss of internet                                                  |                                             |      |       |              |                         |                    |       |         |
 |0_0010                   |Damage to internet infrastructure                                 |                                             |      |       |              |                         |                    |       |         |
 
-## Architecture
+### Personal Risk assessment
 
-### Relational database
 
-## Website
-
-## API
-
-## Testing 
-
-## CI Server 
-
-## Virtualual Machine Deployment
-
+|Description                 |Assessment                                        |Risk  |Impact |Responsiblity |Current Mitigration                                                                    |Proposed Mitigration            |Respone|Tolorance|
+|----------------------------|--------------------------------------------------|------|-------|--------------|---------------------------------------------------------------------------------------|--------------------------------|-------|---------|
+|Self state                  |My own state of mind to continue with the project |low   |high   |Jake Stone    |Eat, sleep, excercise, in communication with QA team                                   |                                |       |         |
+|Not understanding technology|                                                  |high  |high   |Jake Stone    |Notes, pictures, videos, when something is not understood ask team members and Mentors |Getting mentor to record videos |       |         |
 
