@@ -9,7 +9,9 @@ Introduction
 
 ## Contents
 - [Introduction](#Introduction)
+- [Design](#Design)
 - [Architecture](#Architecture)
+- [Risk Assessment](#Risk%20Assessment)
 
 ## Introduction
 ### Mission statement
@@ -79,3 +81,13 @@ Introduction
 |Self state                  |My own state of mind to continue with the project |low   |high   |Jake Stone    |Eat, sleep, excercise, in communication with QA team                                   |                                |       |         |
 |Not understanding technology|                                                  |high  |high   |Jake Stone    |Notes, pictures, videos, when something is not understood ask team members and Mentors |Getting mentor to record videos |       |         |
 
+### MoSCoW
+
+#### Must
+
+
+#### Should
+
+#### Clould
+
+#### Would 
