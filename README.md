@@ -45,7 +45,7 @@ Introduction
 ## Design
 
 ### Kanban board 
-![](images/kanban_board.png)
+![](images/kanban_board_one.png)
 
 ### Database Design 
 ![](images/pour_spirit-Database%20Model.png)
