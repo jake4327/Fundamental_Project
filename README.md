@@ -76,19 +76,27 @@ This section will focus on how the proposed project will reach it minimum MVP on
 > Create user interface company interface for signing up to company
 > Create a system 
 
+##Design
 
-## Design
+### UML
 
-### Database Design 
+#### Database Design 
 ![](images/pour_spirit-Database%20Model.png)
 
-### Bar Session
+#### Bar Session
 ![](images/pour_spirit-Bar%20session.png)
 
-### Pour Bottle 
+#### Pour Bottle 
 ![](images/pour_spirit-Pour%20Bottle.png)
 
-## Jira Board
+
+### Website view
+
+#### Enter new Bottle
+![](images/Enter_Bottle_Page.png)
+
+#### Till System
+![](images/till_system_complete.png)
 
 ## Risk Assessment
 ![](images/moscow_risk_assessment.jpg)
