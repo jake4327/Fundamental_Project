@@ -78,9 +78,9 @@ This section will focus on how the proposed project will reach it minimum MVP on
 
 ### Continuous Integration Pipeline 
 
-![](#CI_pipeline.png)
+![](images/CI_pipeline.png)
 
-##Design
+## Design
 
 ### UML
 
