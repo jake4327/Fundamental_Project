@@ -76,6 +76,10 @@ This section will focus on how the proposed project will reach it minimum MVP on
 > Create user interface company interface for signing up to company
 > Create a system 
 
+### Continuous Integration Pipeline 
+
+![](#CI_pipeline.png)
+
 ##Design
 
 ### UML
