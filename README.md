@@ -85,7 +85,7 @@ This section will focus on how the proposed project will reach it minimum MVP on
 ### UML
 
 #### Database Design 
-![](images/pour_spirit-Database%20Model.png)
+![](database_design/ERD_CHen_conceptual_model.png)
 
 #### Bar Session
 ![](images/pour_spirit-Bar%20session.png)
