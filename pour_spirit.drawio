@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T12:12:32.922Z" agent="5.0 (X11)" etag="54ys0pw50adGDvAYfyMV" version="13.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-08-31T12:15:32.923Z" agent="5.0 (X11)" etag="gMkUs8kI7dTRAjXlmRfk" version="13.6.5" type="github" pages="5">
   <diagram name="Database Model" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1352" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -695,7 +695,7 @@
         <mxCell id="9ohPRdUVvh0t_WMVwWjw-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="d36ibxw9kkIbOFoLyxEm-1" source="BVhYMrYyHFez2K5BwvAk-2" target="0uubyJxyz2lQTnkSBZjO-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BVhYMrYyHFez2K5BwvAk-2" value="bottle id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" parent="d36ibxw9kkIbOFoLyxEm-1" vertex="1">
+        <mxCell id="BVhYMrYyHFez2K5BwvAk-2" value="bottle_id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" parent="d36ibxw9kkIbOFoLyxEm-1" vertex="1">
           <mxGeometry x="-386" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9ohPRdUVvh0t_WMVwWjw-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="d36ibxw9kkIbOFoLyxEm-1" source="BVhYMrYyHFez2K5BwvAk-1" target="0uubyJxyz2lQTnkSBZjO-17" edge="1">
@@ -716,7 +716,7 @@
         <mxCell id="gSeZHdrUXKC4UhQyPffZ-9" value="" style="group;strokeWidth=5;" parent="9ohPRdUVvh0t_WMVwWjw-29" vertex="1" connectable="0">
           <mxGeometry x="140" y="15" width="120" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="l8o9dSlnx5FrRZk9BTqf-2" value="bottle id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" parent="gSeZHdrUXKC4UhQyPffZ-9" vertex="1">
+        <mxCell id="l8o9dSlnx5FrRZk9BTqf-2" value="bottle_id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" parent="gSeZHdrUXKC4UhQyPffZ-9" vertex="1">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="91JlJYkpV9d6CV7yItNB-5" value="Bottle" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4C0099;strokeWidth=5;" parent="gSeZHdrUXKC4UhQyPffZ-9" vertex="1">
