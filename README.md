@@ -3,6 +3,8 @@ QA SFIA1 project
 
 Introduction
 
+CHANGE ERD DIAGRAM SO THAT NAME IS AN ATTRIBUTE OF BOTTLE
+
 # Live Bar Count
 
 ![](images/Beer_weight_design.png)
