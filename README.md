@@ -91,6 +91,9 @@ This section will focus on how the proposed project will reach it minimum MVP on
 #### Pour Bottle 
 ![](images/pour_spirit-Pour%20Bottle.png)
 
+### Class Diagram
+
+![](images/UML.png)
 
 ### Website view
 
