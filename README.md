@@ -3,6 +3,8 @@ QA SFIA1 project
 
 Introduction
 
+CHANGE ERD DIAGRAM SO THAT NAME IS AN ATTRIBUTE OF BOTTLE
+
 # Live Bar Count
 
 ![](images/Beer_weight_design.png)
@@ -21,35 +23,31 @@ Introduction
 ### Application
 > To be used in hospitality sector, in bars to produce an accurate live stock count
 
-## Speicfication link
-> How is application a CRUD application?
-
-### Enter new spirit
-* C - A new brand of alcohol 
-* R - Bottled spirt information
-* U - Change bottled spirt information
-* D - Delete bottled spirt
-
-### Pour Spirt
-* C - New bottle
-* R - Current bottle weight
-* U - Pour spirit
-* D - Delete current weight
-
-### Bar session
-* C - 
-* R -
-* U - 
-* D - 
-
 ## Planning
 
 ### Kanban board 
 
-Why use a kanban board 
-How did you use it to maximise effiency
-What sprints did you use?
-Why did you pick these sprints - because it made me move towards the MVP? 
+The Kanban board, on Jira, is used to organise a project. The tasks are set
+into Epics which is like a main goal to achieve. This main goals are accompanied 
+by stories and tasks which are like the aims and objectives to achieve the goal.
+The aims are smaller tasks that need to be completed to achieve the goals and 
+objective are the most granular type of task. 
+
+Using a Kanban board aims to maximise efficiency and to monitor work progression.
+The Atlassian software being used for this project is filled with functioanlity 
+to measure the productivity of the product. Monitioring work like this allows for
+the Business operations team to make descisions about the product, such as when they 
+believe the product will be ready for realse.
+
+The second reason people use a kanban board, through Jira is to maximise efficiency.
+I believe using a monitoring system like this is excellent because it helps focus 
+people on what is nessissary to do and give a sense of progression so people stay
+motivated to complete the task.
+
+The final and most important thing the Jira board does is help the project move 
+towards the MPV, which is essiential to the project. Having the minimum viable 
+product allows the business to sell its product and pay the developers while they 
+work on improving and adding new features. 
 
 ![](images/kanban_board_one.png)
 
@@ -85,7 +83,7 @@ This section will focus on how the proposed project will reach it minimum MVP on
 ### UML
 
 #### Database Design 
-![](images/pour_spirit-Database%20Model.png)
+![](database_design/ERD_Chen_conceptual_model.png)
 
 #### Bar Session
 ![](images/pour_spirit-Bar%20session.png)
@@ -93,6 +91,9 @@ This section will focus on how the proposed project will reach it minimum MVP on
 #### Pour Bottle 
 ![](images/pour_spirit-Pour%20Bottle.png)
 
+### Class Diagram
+
+![](images/UML.png)
 
 ### Website view
 
