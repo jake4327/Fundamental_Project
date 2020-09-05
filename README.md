@@ -3,8 +3,6 @@ QA SFIA1 project
 
 Introduction
 
-CHANGE ERD DIAGRAM SO THAT NAME IS AN ATTRIBUTE OF BOTTLE
-
 # Live Bar Count
 
 ![](images/Beer_weight_design.png)
@@ -16,8 +14,7 @@ CHANGE ERD DIAGRAM SO THAT NAME IS AN ATTRIBUTE OF BOTTLE
 - [Risk Assessment](#Risk%20Assessment)
 
 ## Introduction
-### Mission statement
-> To build a world where people pay for whats theres.
+
 ### Idea
 > A weight system to measure liquid in bottles.
 ### Application
@@ -57,22 +54,17 @@ This section will focus on how the proposed project will reach it minimum MVP on
 * version 1
 > Minimus Viable Product 
 > Have 1 C, R,U and D happening.
-> Have SIMPLE till system - One button with vodka on it, hard code price and weight
-> Focus on pour session - One vodka poured -> ran through till -> bottle put back on scale
-
+> Have back end running on Google vm
 
 * version 2
 > Create second CRUD process running
-> Add one more spirit to the bar Gin
-> Focus on bar session - one bar opens -> allows bar seesion to run -> closes produces report
+> Impliment testing and see if the testing goes into 
 
-* version 3
-> Add sever
+* version 3 
+> Create waste, bar, company class 
 
 * version 4 
-> Create different brands of alcohol 
-> Create user interface company interface for signing up to company
-> Create a system 
+>
 
 ### Continuous Integration Pipeline 
 
