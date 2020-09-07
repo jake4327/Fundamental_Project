@@ -49,7 +49,7 @@ The versions will be dictated from a MoSCoW product point of view:
 > Design front end and 
 > Allow access to front end on the google VM
 
-* WON'T HAVE: 
+* WON'T have: 
 > Scaling of Virtual Machines
 
 ### Continuous Integration Pipeline 
@@ -81,23 +81,13 @@ The versions will be dictated from a MoSCoW product point of view:
 #### Till System
 ![](images/till_system_complete.png)
 
-## Risk Assessment
-![](images/moscow_risk_assessment.jpg)
-
 ### Technical risk assessment
 
-|Risk_ID                  |Description                                                       |Assessment                                   |Risk  |Impact |Responsiblity |Current Mitigration      |Proposed Mitigration|Respone|Tolorance|
-|-------------------------|------------------------------------------------------------------|---------------------------------------------|------|-------|--------------|-------------------------|--------------------|-------|---------|
-|0_0001                   |Java test not complete                                            |                                             |      |       |              |                         |                    |       |         |
-|0_0002                   |README.md not complete                                            |                                             |low   |low    |low           |Monitor readme           |                    |       |         |
-|0_0003                   |Unit test not evaluating function correctly                       |Function will not produced desired output    |high  |high   |              |Design unit tests        |                    |       |         |
-|0_0004                   |Integration test not evaluation combination of function correctly |Combined functions don't pass data correctly |hight |high   |              |Design integration tests |                    |       |         |
-|0_0005                   |Create function fails                                             |                                             |      |       |              |                         |                    |       |         |
-|0_0006                   |Read function fails                                               |                                             |      |       |              |                         |                    |       |         |
-|0_0007                   |Update function fails                                             |                                             |      |       |              |                         |                    |       |         |
-|0_0008                   |Delete function fails                                             |                                             |      |       |              |                         |                    |       |         |
-|0_0009                   |Loss of internet                                                  |                                             |      |       |              |                         |                    |       |         |
-|0_0010                   |Damage to internet infrastructure                                 |                                             |      |       |              |                         |                    |       |         |
+|Description                      |Assessment                                                            |Risk        |Impact|Responsiblity                  |Current Mitigration|Proposed Mitigration                                                         |Respone                                                         |Tolorance|
+|---------------------------------|----------------------------------------------------------------------|------------|------|-------------------------------|-------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------|---------|
+|Damage to internet infrastructure|If the virtual machine on google goes down                            |high        |high  |Google cloud services, CircleCI|none               |Use a different cloud provider                                               |Poor - application will still be down when Google Cloud is down.|high     |
+|Sensitive data exposure          |Alocohol brands and the product lines they sell are public information|no existent |none  |Jake Stone                     |None               |When business data is being handeled another risk assessment will be complete|                                                                |high     |
+
 
 ### Personal Risk assessment
 
