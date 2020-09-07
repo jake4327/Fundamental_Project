@@ -57,6 +57,19 @@ The versions will be dictated from a MoSCoW product point of view:
 
 ### Continuous Integration Pipeline 
 
+The CI pipeline layouts how the project works with its different technologies. The different technologies are 
+split into three sections the Developers section, the DevOps section and finally the Deployment section.
+
+The first section is the Developers section, this section is where the code is planned and written. The planning 
+of the project is done on the Jira board as discussed above and the code is written in Java and both of these       
+technologies keep the working code base up to date by pushing and pulling to/from git hub, respectively.
+
+The next section is the DevOps section, in this section we see CircleCI building the code from Maven.
+CircleCI is a continuous integration pipeline that allows for tasks to be done every time something is pushed to the repository on GitHub. This allows the application to constantly being checked online and if it goes offline then it
+is clear as to why it is offline. When CircleCI installs maven and runs the application via Maven, it sends either an error report to the Gmail account or continues to run.
+
+The final part of the CI pipeline is the deployment, there are two google cloud boxes and these show that CircleCI 
+connects with the virtual machine then runs the application on the virtual machine.
 ![](images/CI_pipeline.png)
 
 ## Design
@@ -64,24 +77,41 @@ The versions will be dictated from a MoSCoW product point of view:
 ### UML
 
 #### Database Design 
+
+This model shows the relationships between the entities within the application at the current state of the application. There is an Alcohol brand entity and a Bottles entity, the diagram shows that you can have many, 
+bottles to one alcohol brand and only one alcohol brand for a bottle.
+
 ![](database_design/ERD_Chen_conceptual_model.png)
 
 #### Bar Session
+
+Diagram showing flow chart of Bar session.
+
 ![](images/pour_spirit-Bar%20session.png)
 
 #### Pour Bottle 
+
+Diagram showing flow chart of the Pour session.
+
 ![](images/pour_spirit-Pour%20Bottle.png)
 
 ### Class Diagram
+
+Class diagram shoing how classes within the applicationa are interaction with each other.
 
 ![](images/UML.png)
 
 ### Website view
 
 #### Enter new Bottle
+
+A simple vision on how the html page for entering a new bottle would look.
+
 ![](images/Enter_Bottle_Page.png)
 
 #### Till System
+
+A simple vision on how the html page for the till system would look.
 ![](images/till_system_complete.png)
 
 ### Technical risk assessment
