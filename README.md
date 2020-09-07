@@ -25,8 +25,11 @@ Introduction
 ### Kanban board 
 
 The Kanban board is used to organise a project. The tasks are set into Epics which is a list of the main goals to achieve. These main goals are accompanied by stories and tasks which are the aims and objectives of the goal. The aims are smaller tasks that need to be completed to achieve the goals and objective are the most granular type of task.
+
 Using a Kanban board aims to maximise efficiency and to monitor work progression. The Atlassian software being used for this project is filled with functionality to measure the productivity of my development. Monitoring work like this allows for the Business operations team to make decisions about the product, such as when they believe the product will be ready to realise.
+
 The second reason people use a kanban board, through Jira is to maximise efficiency. Using a monitoring system like this is excellent because it helps focus people on the essential tasks and the progression of the project can be viewed which motivates people to complete the task.
+
 The final and most important thing the Jira board does is help the project move towards the MPV, which is essential to the project. Having the minimum viable product allows the business to sell its product and pay the developers while they work on improving and adding new features.
 
 ![](images/kanban_board_one.png)
