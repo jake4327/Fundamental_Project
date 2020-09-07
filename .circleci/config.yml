@@ -14,13 +14,10 @@ jobs:
           command: ssh $SSH_USER@$SSH_HOST "sudo apt-get update && sudo apt-get install -y curl git && sudo apt-get install -y openjdk-8-jdk" 
       - run:
           name: Pull git 
-          command: ssh $SSH_USER@$SSH_HOST "git clone https://github.com/jake4327/Fundamental_Project.git"
-      - run:
-          name: Pull git 
           command: ssh $SSH_USER@$SSH_HOST "cd ~/bottles && git pull"
       - run:
           name: install maven
-          command: ssh $SSH_USER@$SSH_HOST "cd ~/bottles && sudo apt-get install -y maven"
+          command: ssh $SSH_USER@$SSH_HOST "cd Fundamental_Project/bottles && sudo apt-get install -y maven"
       - run:
           name: Deploy Application
           command: ssh $SSH_USER@$SSH_HOST "cd ~/bottles && mvn verify"
