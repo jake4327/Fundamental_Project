@@ -39,21 +39,21 @@ The final and most important thing the Jira board does is help the project move 
 This section will focus on how the proposed project will reach it minimum MVP on each relase release the versions.
 The versions will be dictated from a MoSCoW product point of view:
 * MUST have:
-> Minimus Viable Product 
-> Have 1 C, R,U and D happening.
-> Have back end running on Google vm
+ * Minimus Viable Product
+ * Have 1 C, R,U and D happening.
+ * Have back end running on Google vm
 
 * SHOULD have:
-> A second CRUD process running
-> Impliment testing and see if the testing goes into 
+ * A second CRUD process running
+ * Impliment testing and see if the testing goes into 
 
 * COULD have:
-> Create waste, bar, company class 
-> Design front end and 
-> Allow access to front end on the google VM
+ * Create waste, bar, company class 
+ * Design front end and 
+ * Allow access to front end on the google VM
 
 * WON'T have: 
-> Scaling of Virtual Machines
+ * Scaling of Virtual Machines
 
 ### Continuous Integration Pipeline 
 
